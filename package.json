@@ -1,0 +1,15 @@
+{
+  "name": "alexasketch",
+  "version": "1.0.0",
+  "description": "A new alexa app for creating art.",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
